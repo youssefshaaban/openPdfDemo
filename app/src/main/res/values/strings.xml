@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PdfViewer</string>
+    <string name="open_from_assets">from assets</string>
+    <string name="open_from_storage">from storage</string>
+    <string name="open_from_internet">from internet</string>
+    <string name="open_in_webview">open webView</string>
+    <string name="opening_pdf">open pdf</string>
+</resources>
